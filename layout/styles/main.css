@@ -1,0 +1,19 @@
+.partners-bg {
+  background-size: 75%;
+}
+
+@media (max-width: 768px) {
+  .partners-bg {
+    background-size: 125%;
+  }
+}
+
+.contact-message {
+  width:100%;
+}
+
+#map {
+  width: 500px;
+  height: 400px;
+  background-color: #CCC;
+}
